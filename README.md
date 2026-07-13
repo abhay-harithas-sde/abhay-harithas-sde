@@ -30,6 +30,13 @@ roles     :
   - College Ambassador @ Techfest IIT Bombay
   - Volunteer Coordinator @ Teach AI for India (TAI)
 
+education :
+  - BTech AI/ML/DS @ NIAT + Chaitanya Deemed University (2025–2029)
+  - Intermediate PCM @ Vignan Junior College (2023–2025)
+  - 10th @ Tagore High School, Shadnagar (2016–2023)
+
+languages  : Telugu 🇮🇳 · Kannada · Hindi · Punjabi · English
+
 achievements:
   - 🏆 OpenAI Academy x NxtWave Buildathon Finalist
      └─ Top 93 teams out of thousands across India
@@ -38,6 +45,8 @@ achievements:
   - 🔥 15K+ lines of code | 1,004 problems solved
   - 🎯 Top 5,000 teams @ Vibe HACK 2.0 (25K+ teams)
   - 📚 29 courses | 26 certifications | 14 events
+  - 🔐 Security Analyst Certificate | Ethereum Dev
+  - 🌐 Industry 4.0 | Scientific Computing with Python
 
 identity  :
   - Healthpreneur 🌱 | Gamepreneur 🎮 | Softpreneur 💻
@@ -189,8 +198,9 @@ identity  :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayharithassde)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abhayharithassde)
+[![Linktree](https://img.shields.io/badge/IndKingAI-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/indkingaigz)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay-harithas-sde)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayharithas@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayharithas.sde@gmail.com)
 
 </div>
 
