@@ -256,7 +256,7 @@ identity  : Healthpreneur 🌱 | Gamepreneur 🎮 | Softpreneur 💻
 
 <div align="center">
 
-`Telugu` &nbsp;|&nbsp; `Kannada` &nbsp;|&nbsp; `Hindi` &nbsp;|&nbsp; `English` &nbsp;|&nbsp; `Punjabi` &nbsp;|&nbsp; `Tamil` &nbsp;|&nbsp; `Kashmiri`
+`English` &nbsp;|&nbsp; `Hindi` &nbsp;|&nbsp; `Telugu` &nbsp;|&nbsp; `Kannada` &nbsp;|&nbsp; `Punjabi *(mid level)*` &nbsp;|&nbsp; `Kashmiri *(mid level)*`
 
 </div>
 
