@@ -94,51 +94,61 @@ identity  : Healthpreneur 🌱 | Gamepreneur 🎮 | Softpreneur 💻
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
+
+<div align="center">
+
+[![wellsense-ai](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=wellsense-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/wellsense-ai)
+[![WellFlow](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=WellFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/WellFlow)
+
+[![UIDAI_12683](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=UIDAI_12683&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/UIDAI_12683)
+[![HTF25-Team-109](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=HTF25-Team-109&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/HTF25-Team-109)
+
+[![smart-erp](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=smart-erp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/smart-erp)
+[![Smart-Inventory-Management](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=Smart-Inventory-Management---Aruwell-Preneurs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/Smart-Inventory-Management---Aruwell-Preneurs)
+
+[![zyro-hr-helpdesk](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=zyro-hr-helpdesk&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/zyro-hr-helpdesk)
+[![kagglechall](https://github-readme-stats.vercel.app/api/pin/?username=abhay-harithas-sde&repo=kagglechall&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/abhay-harithas-sde/kagglechall)
+
+</div>
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  🧠  WELLSENSE AI — Intelligent Health & Wellness Platform          ║
-║                                                                      ║
-║  Stack: React 18 · Tailwind · Node.js/Express · OpenAI API          ║
-║         PostgreSQL · MongoDB · Redis · Docker · Firebase · WebRTC   ║
-║                                                                      ║
-║  • AI-generated personalized fitness & nutrition plans              ║
-║  • WebRTC remote video consultations with certified professionals   ║
-║  • Multi-DB ecosystem: PostgreSQL + MongoDB + Redis caching         ║
-║  • Docker Compose deployment + Firebase OAuth + CORS security       ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════╗
-║  🎙️  WELLFLOW — Voice-Driven AI Wellness Assistant                  ║
-║                                                                      ║
-║  Stack: Python · Generative AI · Text Embeddings · UX/UI Design    ║
-║                                                                      ║
-║  • Proprietary voice AI delivering real-time wellness support       ║
-║  • Natural conversational models + accurate response generation     ║
-║  • End-to-end product lifecycle from concept to prototype           ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════╗
-║  🔐  AADHAAR COUNTERFEIT DETECTION — ML & Security                  ║
-║                                                                      ║
-║  Stack: Python · Machine Learning · Image Processing · CV           ║
-║                                                                      ║
-║  • ML-based system to verify Aadhaar card authenticity             ║
-║  • Image processing + feature extraction to detect alterations     ║
-║  • Secure UI for real-time document verification                    ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════╗
-║  🎮  CUSTOM GTA V SCRIPTS — SOULCITY (S8UL Creative)                ║
-║                                                                      ║
-║  Stack: Python · HTML/CSS · FiveM (Cfx.re) · Discord Bot API       ║
-║                                                                      ║
-║  • Custom gameplay scripts + server mods for live FiveM server     ║
-║  • Python Discord bots for moderation & automation                 ║
-║  • Managed 20+ staff · 1000+ hours of live ops & QA testing        ║
+║  Stack: React 18 · Node.js · OpenAI GPT-4 · PostgreSQL             ║
+║         MongoDB · Redis · Docker · Firebase · WebRTC               ║
+║  • AI fitness & nutrition plans + video consultations               ║
+║  • Multi-DB + Docker Compose + Firebase OAuth security             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🎙️  WELLFLOW — Voice-First Wellness Companion                      ║
+║  Stack: TypeScript · Murf Falcon TTS API · GenAI                   ║
+║  • Human-like voice responses for screen-free wellness support     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🔐  UIDAI DIGITAL IDENTITY INTELLIGENCE SYSTEM                     ║
+║  Stack: HTML · Python · ML · Image Processing                      ║
+║  • Aadhaar card authenticity verification & counterfeit detection  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🥗  HTF25 — AI-Based Calorie & Dish Identifier                     ║
+║  Stack: JavaScript · Computer Vision · AI                          ║
+║  • Identify dishes & estimate calories from images using AI        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🏭  SMART ERP — Enterprise Resource Planning System                ║
+║  Stack: JavaScript · Full-Stack                                    ║
+║  • Modern ERP solution for business operations management          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📦  SMART INVENTORY MANAGEMENT — Aruwell Preneurs                  ║
+║  Stack: JavaScript · Full-Stack                                    ║
+║  • Intelligent inventory tracking & management platform            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🤖  ZYRO HR HELPDESK — AI-Powered HR Assistant                     ║
+║  Stack: Python · AI/NLP                                            ║
+║  • Automated HR query resolution & employee support system         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📊  KAGGLE CHALLENGE — ML Competition                              ║
+║  Stack: Python · Jupyter · scikit-learn · Pandas                   ║
+║  • Machine learning models for competitive data science            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
