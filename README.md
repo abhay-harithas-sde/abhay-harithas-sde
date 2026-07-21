@@ -30,7 +30,6 @@ education :
 
 roles     :
   - Vice President @ NIAT Student General Council (NSGC)
-  - Head of Creative & Design AI @ WellSense Health Community
   - Head of Design, Code & Ops @ S8UL Creative (Soulcity)
   - College Ambassador @ Techfest, IIT Bombay
   - Volunteer Coordinator @ Teach AI for India (TAI)
@@ -162,7 +161,6 @@ identity  : Healthpreneur 🌱 | Gamepreneur 🎮 | Softpreneur 💻
 
 | 🏢 Role | 🏷️ Organization | 📅 Duration |
 |---|---|---|
-| Head of Creative & Design AI | WellSense Health Community | Aug 2023 – Present |
 | Vice President | NIAT Student General Council (NSGC) | Nov 2025 – Present |
 | Head of Design, Code & Ops | S8UL Creative — Soulcity | 2024 – Dec 2025 |
 | Volunteer Coordinator | Teach AI for India (TAI) | Feb 2026 – Present |
